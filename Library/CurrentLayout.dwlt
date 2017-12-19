@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 392}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1037
-  m_MinSize: {x: 950, y: 392}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 342}
   m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 104
+  controlID: 108
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 342}
   m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 105
+  controlID: 84
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 106
+  controlID: 85
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -368,7 +368,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: b69affff2c9bffffb49dffffbc9dffff22acffff9aacffff2eafffff40afffff86d2ffffa6fbffff00000000
+    m_ExpandedIDs: a6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -542,7 +542,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 335}
     m_SelectedIDs: e8290000
     m_LastClickedID: 10728
-    m_ExpandedIDs: 0000000022290000e8290000ea2900000a2a0000262a00006c2a0000982a0000682d0000702d0000802d0000882d0000302e0000562e00002c2f00007a310000f23100003e3200004432000070320000c8320000e4320000ac350000ae35000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000022290000e8290000ea2900000a2a0000262a00006c2a0000982a0000682d0000702d0000802d0000882d0000302e0000562e00002c2f00007a310000f23100003e3200004432000070320000c8320000e4320000ac350000ae350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -570,7 +570,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000022290000e8290000ea2900000a2a0000162a0000262a00006c2a0000982a0000682d0000702d0000802d0000882d0000302e0000562e00002c2f00007a310000f23100003e3200004432000070320000c8320000e4320000ac350000ae350000
+    m_ExpandedIDs: 0000000022290000e8290000ea2900000a2a0000262a00006c2a0000982a0000682d0000702d0000802d0000882d0000302e0000562e00002c2f00007a310000f23100003e3200004432000070320000c8320000e4320000ac350000ae350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
