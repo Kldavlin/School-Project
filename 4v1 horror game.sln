@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4v1 horror game", "4v1 horror game.csproj", "{840736C2-9CE9-47FF-57A7-B05C14047206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4v1 horror game.Plugins", "4v1 horror game.Plugins.csproj", "{2005694E-0424-3637-0CCE-EB24955AC10F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4v1 horror game.Editor.Plugins", "4v1 horror game.Editor.Plugins.csproj", "{041B7672-EEF7-D3D3-5A11-04E575BE1BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4v1 horror game.Editor", "4v1 horror game.Editor.csproj", "{9BC8EEAA-6149-B143-1E3B-0919A26A90A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840736C2-9CE9-47FF-57A7-B05C14047206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840736C2-9CE9-47FF-57A7-B05C14047206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840736C2-9CE9-47FF-57A7-B05C14047206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840736C2-9CE9-47FF-57A7-B05C14047206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2005694E-0424-3637-0CCE-EB24955AC10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2005694E-0424-3637-0CCE-EB24955AC10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2005694E-0424-3637-0CCE-EB24955AC10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2005694E-0424-3637-0CCE-EB24955AC10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041B7672-EEF7-D3D3-5A11-04E575BE1BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041B7672-EEF7-D3D3-5A11-04E575BE1BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041B7672-EEF7-D3D3-5A11-04E575BE1BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041B7672-EEF7-D3D3-5A11-04E575BE1BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC8EEAA-6149-B143-1E3B-0919A26A90A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC8EEAA-6149-B143-1E3B-0919A26A90A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC8EEAA-6149-B143-1E3B-0919A26A90A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC8EEAA-6149-B143-1E3B-0919A26A90A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
