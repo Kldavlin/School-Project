@@ -401,6 +401,7 @@
     <Compile Include="Assets\PlayerCharacters\Resources\GodPlayer\Scripts\Player.cs" />
     <Compile Include="Assets\PlayerCharacters\Resources\GodPlayer\Scripts\RTS.cs" />
     <Compile Include="Assets\PlayerCharacters\Resources\GodPlayer\Scripts\UserInput.cs" />
+    <Compile Include="Assets\RayCastShoot.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Photon Unity Networking\Demos\DemoBoxes\Resources\eurof_tt.txt" />

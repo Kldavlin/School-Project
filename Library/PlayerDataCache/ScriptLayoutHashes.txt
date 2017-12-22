@@ -3,6 +3,7 @@ WindowsStandalone
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PunTeams
 4d0187d1ee26ceba125a106f0dde0360 Assembly-CSharp.dll:.SmoothSyncMovement
 e17f92d3b13f18bef6e4629b9bff76dd Assembly-CSharp.dll:.DemoBoxesGui
+03be0090fe665f78c5a8484d0330de81 Assembly-CSharp.dll:.RayCastShoot
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -171,7 +172,7 @@ e626bae268f8b272b7a2d07760d262c6 Assembly-CSharp.dll:.PickupController
 0c4dea12d5ccc08c2c80e5a188a9699c Assembly-CSharp.dll:.SmoothMouseLook
 1356b4a6096c35c829823b7e28399030 Assembly-CSharp.dll:.HubGui
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.NetworkManager
-9b492d80f9a6e2ebed7a40d4ce3a0f1d Assembly-CSharp.dll:.PlayerMovement
+c4c16ca8dbe3820f55a7c18a79fef694 Assembly-CSharp.dll:.PlayerMovement
 78ebae5ed9b3edeb216da437b99754a4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.Joystick
 149e538468c9a609cf26b23682c996c7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
 5a78906060300940acb71bc3dfb6396d Assembly-CSharp.dll:.DragToMove

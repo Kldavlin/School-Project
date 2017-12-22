@@ -10,6 +10,7 @@ public class PlayerMovement : Photon.MonoBehaviour {
     Quaternion realRotation = Quaternion.identity;
     public GameObject myChar;
     public GameObject standbyCamera;
+    public GameObject myCharOuterView;
     private Camera myFpsCamera;
     private int Health;
 
@@ -28,6 +29,7 @@ public class PlayerMovement : Photon.MonoBehaviour {
             standbyCamera = GameObject.Find("StandbyCamera");
             standbyCamera.SetActive(false);
             myChar.SetActive(true);
+            myCharOuterView.SetActive(false);
             m_MouseLook.Init(transform, myFpsCamera.transform);
 
         }

@@ -84,12 +84,15 @@ public class Player : MonoBehaviour {
 
     public void NewHealth(PhotonPlayer photonPlayer, int health)
     {
+        print("NewHealth method called");
+
         PhotonView.RPC("RPC_NewHealth", photonPlayer, health);
     }
 
     [PunRPC]
     private void RPC_NewHealth(int health)
     {
+        print("Inside RPC health method");
         if(CurrentPlayer == null)
         {
             return;
@@ -102,6 +105,7 @@ public class Player : MonoBehaviour {
         else
         {
             CurrentPlayer.setHealth(health);
+            print("Current Health: " + CurrentPlayer.getHealth());
         }
     }
 
